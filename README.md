@@ -78,16 +78,17 @@ The dataset used for this project is available in the `dataset` folder.
 
 
 
-\## Key Insights
 
 
 
-\- Add your first actual insight from the dashboard here.
 
-\- Add your second actual insight here.
+## Key Insights
 
-\- Add your third actual insight here.
-
+- The dashboard shows 238 employee attritions with an overall attrition rate of 16%.
+- Employees in the Up to 5K salary slab account for the highest attrition count, with 163 employees.
+- The 26–35 age group has the highest attrition count, with 116 employees.
+- Laboratory Technicians have the highest attrition count among job roles, followed by Sales Executives and Research Scientists.
+- The gender-wise breakdown shows a higher proportion of attrition among female employees compared with male employees.
 
 
 \## Conclusion
